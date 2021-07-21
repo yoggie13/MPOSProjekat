@@ -1,0 +1,15 @@
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\PresentationControlServer.exe.config
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\PresentationControlServer.exe.manifest
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\PresentationControlServer.application
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\PresentationControlServer.exe
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\PresentationControlServer.pdb
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.csproj.CoreCompileInputs.cache
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.exe.manifest
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.application
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.exe
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.pdb
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.csprojAssemblyReference.cache
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\System.Drawing.Common.dll
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\WindowsInput.dll
+C:\Users\Ognjen\source\repos\PresentationControlServer\bin\Release\WindowsInput.xml
+C:\Users\Ognjen\source\repos\PresentationControlServer\obj\Release\PresentationControlServer.csproj.CopyComplete
